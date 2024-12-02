@@ -24,7 +24,7 @@ const home = () => {
 
                 <HeaderIcons />
 
-                <a href="https://drive.google.com/file/d/1i2LUQfRiuUFweyFvs1KFePrfBm8di658/view?usp=drive_link" className='btn' target="_blank"
+                <a href="https://drive.google.com/file/d/10cbjPalYQKZDsGSRASOa0qR29BKkoYVh/view?usp=sharing" className='btn' target="_blank"
           rel="noopener noreferrer">Resume</a>
 
                 <Scroll />
