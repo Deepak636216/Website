@@ -36,4 +36,3 @@ Visit the live site at: [https://deepak636216.github.io/Website/]
 
 ---
 
-Feel free to add more details about specific features or deployment instructions!
